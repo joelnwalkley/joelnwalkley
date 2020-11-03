@@ -11,7 +11,7 @@
   - Java
   
 ⚡ Fun facts:
-  - I earned by bachelor's degree in computer science over 15 years ago before going to seminary upon the recommendation of a mentor who suggested I study something to be more well rouneded. Unable to find full-time ministry work I pursued human services and eventually became a social worker. During Covid, I was facing a layoff due to the loss of federal funding for a project and came full circle to land my first full-time tech position in 2020. So, I am a social worker who knows how to code.
+  - I earned by bachelor's degree in computer science over 15 years ago before going to seminary. This path was upon the recommendation of my pastor mentor who suggested I study something to be more well rounded. When I was unable to find full-time ministry work I pursued a human services career in addition to ministry work. Eventually becoming a social worker. During Covid, I was facing a layoff due to the loss of federal funding for a project and came full circle to land my first full-time tech position in 2020. So, I am a pastor and social worker who knows how to code.
 <!--
 
 Here are some ideas to get you started:
