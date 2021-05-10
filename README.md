@@ -1,8 +1,8 @@
 # Hello, World!
 
-🔭 I’m currently working on two projects with [Evidence-Based Associates](https://evidencebasedassociates.com/):
+🔭 I’m currently working on two projects with [Evidence-Based Associates](https://evidencebasedassociates.com/) as an Independent Contractor:
   - [Virginia Department of Juvenile Justice Provider Directory](https://vamap.evidencebasedassociates.com/)
-  - Provider Web Portal for the Washington D.C. Project (not publically accessible)
+  - Provider Web Portal for the Washington D.C. Families First Project (not publicly accessible)
   
 😄 Pronouns: He/His/Him.
 
@@ -11,7 +11,10 @@
   - Java
   
 ⚡ Fun facts:
-  - I earned by bachelor's degree in computer science over 15 years ago before going to seminary. This path was upon the recommendation of my pastor mentor who suggested I study something to be more well rounded. When I was unable to find full-time ministry work I pursued a human services career in addition to ministry work. Eventually becoming a social worker. During Covid, I was facing a layoff due to the loss of federal funding for a project and came full circle to land my first full-time tech position in 2020. So, I am a pastor and social worker who knows how to code.
+  - I earned my bachelor's degree in computer science about 15 years ago before going to seminary. I chose this path upon the recommendation of a dear mentor who suggested I study something to become more well rounded. When I was unable to find full-time ministry work at the height of the Great Recession I pursued a human services career in addition to leading a local congregation, eventually becoming a social worker. During the global Covid pandemic, I was facing a layoff due to the loss of federal funding for a project and came full circle to land my first full-time tech position in 2020. So, I am a pastor and social worker who knows how to code.
+
+💬 Coding Philosophy:
+   - Software, an app, a website, or any bit of technology exists first and foremost to solve a human problem or meet a need. Or to put that it in another way: the code does not exist for its own sake. Never lose sight of the human context when developing technology solutions. 
 <!--
 
 Here are some ideas to get you started:
