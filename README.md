@@ -11,7 +11,7 @@
   - Java
   
 ⚡ Fun facts:
-  - I earned my bachelor's degree in computer science about 15 years ago before going to seminary. I chose this path upon the recommendation of a dear mentor who suggested I study something to become more well rounded. When I was unable to find full-time ministry work at the height of the Great Recession I pursued a human services career in addition to leading a local congregation, eventually becoming a social worker. During the global Covid pandemic, I was facing a layoff due to the loss of federal funding for a project and came full circle to land my first full-time tech position in 2020. So, I am a pastor and social worker who knows how to code.
+  - I earned my bachelor's degree in computer science about 15 years ago before going to seminary. I chose this path upon the recommendation of a dear mentor who suggested I study something to become more well rounded. When I was unable to find full-time ministry work at the height of the Great Recession I pursued a human services career in addition to leading a local congregation, eventually becoming a social worker. I love that I have been able to put my tech skills to work throughout my career. During the global Covid pandemic, I was facing a layoff due to the loss of federal funding for a project and decided to lean more heavily into tech. So, I am a pastor and social worker who knows how to code.
 
 💬 Coding Philosophy:
    - Software, an app, a website, or any bit of technology exists first and foremost to solve a human problem or meet a need. Or to put that it in another way: the code does not exist for its own sake. Never lose sight of the human context when developing technology solutions. 
